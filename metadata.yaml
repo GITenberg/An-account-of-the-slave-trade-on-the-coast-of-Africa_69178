@@ -1,11 +1,16 @@
 _repo: An-account-of-the-slave-trade-on-the-coast-of-Africa_69178
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69178-h/images/cover.jpg
 creator:
   author:
     agent_name: Falconbridge, Alexander
     gutenberg_agent_id: '55151'
     url: http://www.gutenberg.org/2009/agents/55151
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69178#An-account-of-the-slave-trade-on-the-coast-of-Africa
 gutenberg_issued: '2022-10-19'
 identifiers:
   gutenberg: '69178'
